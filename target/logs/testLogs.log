@@ -1,0 +1,3 @@
+[INFO] time: 2023-08-15 14:27:22,691 file: TestListener.java class: com.softserve.edu.testcases.listeners.TestListener method: onTestSkipped line: 43 thread: main - Test SKIPPED org.testng.internal.TestResult - sortClubsAlphabeticallyTest
+[ERROR] time: 2023-08-15 14:27:24,591 file: AllureLifecycle.java class: io.qameta.allure.AllureLifecycle method: updateTestContainer line: 131 thread: main - Could not update test container: container with uuid 0256bb76-ae99-4405-b09e-9a04d7ac2107 not found
+[ERROR] time: 2023-08-15 14:27:24,591 file: AllureLifecycle.java class: io.qameta.allure.AllureLifecycle method: updateTestContainer line: 131 thread: main - Could not update test container: container with uuid 4715e39e-0c8d-4a3b-8479-0212311e7b93 not found
